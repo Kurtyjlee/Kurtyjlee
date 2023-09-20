@@ -8,5 +8,5 @@ $ Check out my projects <a href="https://github.com/Kurtyjlee?tab=repositories">
 </pre>
 ---
 
-<img align="right" width="57%" src="https://github-readme-stats.vercel.app/api?username=Kurtyjlee&show_icons=true&locale=en&theme=dark" alt="Kurtyjlee" />
-<img align="left" width="39%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kurtyjlee&show_icons=true&locale=en&theme=dark&layout=donut" alt="Kurtyjlee" />
+<img align="right" width="56.5%" src="https://github-readme-stats.vercel.app/api?username=Kurtyjlee&show_icons=true&locale=en&theme=dark" alt="Kurtyjlee" />
+<img align="left" width="38.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kurtyjlee&show_icons=true&locale=en&theme=dark&layout=donut" alt="Kurtyjlee" />
