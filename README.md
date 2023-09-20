@@ -9,8 +9,8 @@ $ Check out my projects <a href="https://github.com/Kurtyjlee?tab=repositories">
 
 ---
 <div style="display:flex">
-<p><img align="center" style="padding:5" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kurtyjlee&show_icons=true&locale=en&theme=dark&layout=donut" alt="Kurtyjlee" /></p>
-<p><img align="center" style="padding:5" src="https://github-readme-stats.vercel.app/api?username=Kurtyjlee&show_icons=true&locale=en&theme=dark" alt="Kurtyjlee" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kurtyjlee&show_icons=true&locale=en&theme=dark&layout=donut" alt="Kurtyjlee" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Kurtyjlee&show_icons=true&locale=en&theme=dark" alt="Kurtyjlee" /></p>
 <div>
 
 
