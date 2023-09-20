@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there, I am Kurt 👋
+I am a Computer Science undergraduate at NUS 💻
 
-<!--
-**Kurtyjlee/Kurtyjlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<pre>
+$ I code 🖥️
+$ I climb 🧗 
+$ I enjoy anything ML/AI related 👯 
+$ Check out my projects <a href="https://github.com/Kurtyjlee?tab=repositories">here</a>
+</pre>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Kurtyjlee&show_icons=true&locale=en&theme=dark" alt="Kurtyjlee" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kurtyjlee&show_icons=true&locale=en&theme=dark&layout=donut" alt="Kurtyjlee" /></p>
